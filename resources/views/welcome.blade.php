@@ -42,7 +42,7 @@
 			<div class="content">
 				<div class="title">Laravel 5</div>
 				<div class="quote">{{ Inspiring::quote() }}</div>
-				<div class="quote">A minha primeira alteração!!!</div>
+				<div class="quote">A minha primeira alteração again!!!</div>
 			</div>
 		</div>
 	</body>
